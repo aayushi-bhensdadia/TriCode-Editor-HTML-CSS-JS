@@ -12,7 +12,7 @@ An in-browser real-time code editor that allows users to write and preview HTML,
 - Netlify (for deployment)
 
 ## 📷 Screenshot
-![Live Code Editor](TriCode-Editor-HTML-CSS-JS/codeEditor.png)
+![Live Code Editor](codeEditor.png)
 
 ## 🌐 Live Demo
 [Visit on Netlify](https://tri-code-editor.netlify.app/)
